@@ -50,6 +50,11 @@
 
 ---
 
+### 2. Qualitative Query-Gallery Retrieval & Matching Demonstration
+![Multi-Camera Person Re-ID Match Visualization](results/reid_match_visualization.png)
+
+---
+
 ## 🔮 Future Work & Expansion Roadmap
 
 1. **Re-Ranking with $k$-Reciprocal Encoding**:
