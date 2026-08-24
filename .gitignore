@@ -1,0 +1,14 @@
+# Virtual environments & IDE
+.venv/
+venv/
+.vscode/
+__pycache__/
+*.pyc
+
+# Model weights
+*.pth
+*.pt
+*.onnx
+
+# Raw datasets
+data/
